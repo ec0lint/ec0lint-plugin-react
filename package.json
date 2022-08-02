@@ -1,6 +1,6 @@
 {
   "name": "ec0lint-plugin-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Malwina Kubas @malwinq",
   "description": "React specific linting rules for ec0lint",
   "main": "index.js",
