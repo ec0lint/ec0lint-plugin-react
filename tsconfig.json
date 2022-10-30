@@ -20,4 +20,10 @@
     "resolveJsonModule": true
   },
   "include": ["lib"],
+  "types": ["jasmine"],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts",
+    "tests"
+  ]
 }

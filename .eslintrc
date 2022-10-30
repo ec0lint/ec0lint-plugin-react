@@ -37,7 +37,8 @@
         "function-call-argument-newline": 1, // TODO: enable
         "function-paren-newline": 0,
         "no-plusplus": [2, {"allowForLoopAfterthoughts": true}],
-        "no-param-reassign": 1,
+        "no-param-reassign": 0,
+        "linebreak-style": 0,
         "no-restricted-syntax": [2, {
             "selector": "ObjectPattern",
             "message": "Object destructuring is not compatible with Node v4"
